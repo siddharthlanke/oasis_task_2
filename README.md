@@ -1,2 +1,1 @@
-# OIBSIP_task_2
-This is the second task of data science internship from Oasis Infobyte named unemployment analysis with python
+The story behind this datasets is how lock-down affects employment opportunities and how the unemployment rate increases during the Covid-19.
